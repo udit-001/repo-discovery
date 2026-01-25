@@ -1,0 +1,15 @@
+clickhouse:
+  url: "https://play.clickhouse.com"
+  table: "github_events"
+  timeout: 60
+
+processing:
+  recent_repos_limit: null
+  max_workers: 4
+  top_n: 10
+
+paths:
+  recommendations_dir: "recommendations"
+  latest_json: "recommendations/latest.json"
+
+

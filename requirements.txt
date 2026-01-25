@@ -1,0 +1,9 @@
+certifi
+charset-normalizer
+idna
+Jinja2
+python-dotenv
+pyyaml
+requests
+urllib3
+bs4
